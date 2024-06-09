@@ -1,0 +1,26 @@
+\documentclass[12pt,a4paper,violet]{bbe}
+\usepackage{blindtext}
+
+\begin{titlepage}
+    \centering
+    \includegraphics[width=\paperwidth, height=\paperheight, keepaspectratio]{images/capa_livro_visme.png}
+\end{titlepage}
+
+\begin{document}
+
+\pagenumbering{gobble} % Para suprimir a numeração da página na primeira página
+
+\clearpage % Para iniciar a numeração de página a partir da próxima página
+\title{Apresentações AesTexticas: \\ Usando LaTeX para um Design de Slides Elegante}
+\authors{Luiz F. P. Quirino} % Use \authors instead of \author due to your custom command
+\date{09 Jun. 2024}
+
+\maketitle
+
+\include{capitulo1}
+\include{capitulo2}
+\include{capitulo3}
+
+\end{document}
+
+\blinddocument
