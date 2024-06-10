@@ -45,7 +45,7 @@ Esse processo me permitiu criar um eBook de alta qualidade, aproveitando as capa
 
 
 ## 🚀 Resultados
- O PDF gerado está disponível [aqui](Apresentacoes_AesTexticas.pdf)
+ O PDF gerado está disponível [aqui](blob:https://github.com/5111eb17-fbe8-4e5e-9756-084de579d6e1)
 
 Até o momento, está disponível apenas um capítulo introdutório, que permite verificar a diagramação atual e a formatação inicial do material, contudo, pretendo expandir o material.
 
