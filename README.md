@@ -45,7 +45,7 @@ Esse processo me permitiu criar um eBook de alta qualidade, aproveitando as capa
 
 
 ## 🚀 Resultados
- O PDF gerado está disponível [aqui](Apresentacoes_AesTexticas.pdf)
+ O PDF gerado está disponível [aqui](https://github.com/luizfpq/lab-natty-or-not/blob/d7bd519770831c3ba1c646dc48d4b160f2b99e65/Apresentacoes_AesTexticas.pdf)
 
 Até o momento, está disponível apenas um capítulo introdutório, que permite verificar a diagramação atual e a formatação inicial do material, contudo, pretendo expandir o material.
 
